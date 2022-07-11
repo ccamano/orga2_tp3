@@ -1,0 +1,24 @@
+{
+  "files.associations": {
+    "mmu.h": "c",
+    "tss.h": "c",
+    "sched.h": "c",
+    "types.h": "c",
+    "stdbool.h": "c",
+    "defines.h": "c",
+    "screen.h": "c",
+    "string.h": "c",
+    "syscall.h": "c",
+    "stddef.h": "c",
+    "isr.h": "c",
+    "gdt.h": "c",
+    "i386.h": "c",
+    "game.h": "c",
+    "colors.h": "c",
+    "idt.h": "c",
+    "map.h": "c",
+    "utility.h": "c"
+  },
+  "C_Cpp.default.configurationProvider": "ms-vscode.makefile-tools",
+  "C_Cpp.default.intelliSenseMode": "gcc-x86"
+}
